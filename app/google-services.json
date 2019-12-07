@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662711239149",
+    "firebase_url": "https://taxiapp-ab031.firebaseio.com",
+    "project_id": "taxiapp-ab031",
+    "storage_bucket": "taxiapp-ab031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662711239149:android:546eff1b678e65759a27e4",
+        "android_client_info": {
+          "package_name": "com.hfad.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662711239149-jat7jvvrbe16h1p0aeqa9334upfb8fu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.taxiapp",
+            "certificate_hash": "d76de81ef7c6b3e9754ca91783665eb782f232e2"
+          }
+        },
+        {
+          "client_id": "662711239149-ppe2sed950j4oj8v1736fnpie1t7gdpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnCpeQMrhT4nofcqYUdlxFSE_V9KMH2Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662711239149-ppe2sed950j4oj8v1736fnpie1t7gdpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
